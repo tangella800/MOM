@@ -1,7 +1,7 @@
 Main() {
-	//initial code 
-function(){
+// Intial code
+
+function2(){
 
 }
 }
-
